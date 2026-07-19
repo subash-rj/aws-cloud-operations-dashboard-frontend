@@ -86,3 +86,7 @@ npm run dev
 - DynamoDB Monitoring
 - CloudWatch Graphs
 - Deployment using Docker & ECS
+
+## Dashboard
+
+![Dashboard][screenshots/img.png]
